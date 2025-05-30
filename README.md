@@ -1,0 +1,1 @@
+Este projeto é uma página web de receitas culinárias inspirada no site TudoGostoso, desenvolvida como prática de HTML, CSS e princípios básicos de estilização e layout responsivo. O objetivo foi criar uma experiência visual agradável e funcional para usuários que desejam navegar por receitas com facilidade.
